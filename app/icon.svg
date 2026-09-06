@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Paceboard — Ritmo</title>
+  <rect width="64" height="64" rx="18" fill="#176B49"/>
+  <path d="M12 35H21L28 19L37 45L44 29H52" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="52" cy="29" r="3" fill="#D9F146"/>
+</svg>
